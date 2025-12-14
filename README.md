@@ -238,11 +238,11 @@ Try asking the bot:
 
 ## 📹 Demo Video
 
-YouTube Link: [Your Video Link Here]
+YouTube Link: https://youtu.be/MNUpw09yopA
 
 ## 🌐 Live Application
 
-Streamlit Cloud: [Your Deployed App Link Here]
+Streamlit Cloud: https://ds-interview-bot-swn6psz9cbucpurwfhieka.streamlit.app/
 
 ## 👤 Author
 
